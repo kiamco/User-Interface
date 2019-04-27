@@ -91,29 +91,27 @@ header nav img{
 
 .left{
 	margin-left: -10px;
-	position:relative;
-	bottom:50px;
+	/* position:relative;
+	bottom:80px; */
 	text-align: center;
 	line-height: 2;
 }
 
 .left h1{
-	font-size: 500%;
+	font-size: 600%;
 	font-weight: 400%;
 	line-height: 1;
 }
 
 .right{
-	position: relative;
-	left:60px;
+	/* position: relative;
+	left:60px; */
+	padding-left: 100px;
 }
 
 .right img{
-	width: 400px
+	width: 500px
 }
-
-
-
 
 .column2{
 	width: calc(98%/3);
